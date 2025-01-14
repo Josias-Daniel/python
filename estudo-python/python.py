@@ -6,3 +6,12 @@
 # passo 5 repetir o passo 4 atr acabar tudo
 
 import pyautogui
+pyautogui.PAUSE = 1
+ # pyautogui.click
+ # pyautogui.write
+ # pyautogui.press
+
+pyautogui.press("win")
+pyautogui.write("chrome")
+pyautogui.press("enter")
+pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
