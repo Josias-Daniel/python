@@ -4,3 +4,5 @@
 # passo 3 importar base de dados dos produtos
 # passo 4 cadastrar um produto 
 # passo 5 repetir o passo 4 atr acabar tudo
+
+import pyautogui
